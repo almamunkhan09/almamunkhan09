@@ -10,5 +10,6 @@ Skills: Nodejs || Express || MongoDB || Git || Docker || Kubernetes || AWS EKS |
 - 🌱 I’m currently learning AWS lamda 
 -  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/almamunkhan09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/al-mamun-khan/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/almamunkhan09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/al-mamun-khan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' height='40'>](https://d33wubrfki0l68.cloudfront.net/f84b022686eac86ba972feae8dabf6af8d1dc263/de78f/images/nav_logo.svg)  
+
 
