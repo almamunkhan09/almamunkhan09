@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Al Mamun Khan
 #### I'm backend developer with extensive knowledge in Devops
-![I'm backend developer with extensive knowledge in Devops](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm backend developer with extensive knowledge in Devops](https://github.com/almamunkhan09/almamunkhan09/blob/main/profileGithub.png)
 
 I am Al Mamun Khan. In my early career, I was an Electrical Engineer. But now I turned into a DevOps engineer who likes to play with tools for successful software production. I also have experience with technologies like NodeJS, MongoDB, and ExpressJS. I am also exploring new certifications in other technologies.
 
