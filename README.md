@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Al Mamun KHan
 =====================================================================================================================================
 
-Nodejs Developer and DevOps Engineer !\[\](https://github.com/almamunkhan09/almamunkhan09/blob/main/profileGithub.png)
+Nodejs Developer and DevOps Engineer 
+![](https://github.com/almamunkhan09/almamunkhan09/blob/main/profileGithub.png)
 ----------------------------------------------------------------------------------------------------------------------
 
 I am Al Mamun Khan. In my early career, I was an Electrical Engineer. But now I turned into a DevOps engineer who likes to play with tools for successful software production. I also have experience with technologies like NodeJS, MongoDB, and ExpressJS. I am also exploring new certifications in other technologies.
