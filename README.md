@@ -25,9 +25,14 @@ I am Al Mamun Khan. In my early career, I was an Electrical Engineer. But now I 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://aws.amazon.com/" rel="noreferrer"><img src="https://icons8.com/icon/33039/amazon-web-services" width="36" height="36" alt="Figma" /></a>
-</p>
+<a href="https://aws.amazon.com/" rel="noreferrer"><img src="https://github.com/almamunkhan09/almamunkhan09/blob/main/icons8-amazon-web-services.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://kubernetes.io/" rel="noreferrer"><img src="" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.docker.com/" rel="noreferrer"><img src="" width="36" height="36" alt="Figma" /></a>
+<a href="https://circleci.com/" rel="noreferrer"><img src="" width="36" height="36" alt="Figma" /></a>
 
+
+</p>
+https://circleci.com/
 
 ### Socials
 
