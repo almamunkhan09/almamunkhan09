@@ -32,7 +32,6 @@ I am Al Mamun Khan. In my early career, I was an Electrical Engineer. But now I 
 
 
 </p>
-https://circleci.com/
 
 ### Socials
 
