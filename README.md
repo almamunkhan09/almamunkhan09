@@ -13,7 +13,7 @@ I am Al Mamun Khan. In my early career, I was an Electrical Engineer. But now I 
 * 🚀  I'm currently working on [developing APIs for authentication for an blogpost App](http://github.com/almamunkhan09/postAPI)
 * 🧠  I'm learning TypeScript || Nestjs
 * 🤝  I'm open to collaborating on MERN projects
-* ⚡  My next dream is to be expart in Blockchain technologies.
+* ⚡  Next- BlockChain Developer
 
 ### Skills
 
